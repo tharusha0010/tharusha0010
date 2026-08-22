@@ -18,7 +18,6 @@
 ```typescript
 const TharushaAriyarathna = {
     location: "Sri Lanka 🇱🇰",
-    roles: ["AI & ML Enthusiast", "Deep Learning", "Computer Vision", "NLP"],
     currentFocus: ["Machine Learning", "Deep Learning", "Computer Vision", "Natural Language Processing"],
     
     },
