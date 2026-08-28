@@ -21,7 +21,7 @@ const TharushaAriyarathna = {
     currentFocus: ["Machine Learning", "Deep Learning", "Computer Vision", "Natural Language Processing"],
     
     },
-    lifePhilosophy: "Learning something new every day 🚀"
+    "
 };
 ```
 
