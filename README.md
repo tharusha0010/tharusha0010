@@ -13,8 +13,6 @@
 ## 👨‍💻 About Me
 
 ```typescript
-Here’s a professional GitHub bio based on your background:
-
 > 🎓 Third-Year Computer Engineering Undergraduate
 > 🤖 AI & ML Enthusiast | 👁️ Computer Vision | 🧠 Deep Learning | NLP
 > 🐍 Python | Java | C++ | FastAPI | OpenCV | YOLO | LangChain
