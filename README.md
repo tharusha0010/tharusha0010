@@ -12,13 +12,14 @@
 
 ## 👨‍💻 About Me
 
-
+```typescript
 🎓 Third-Year Computer Engineering Undergraduate at General Sir John Kotelawala Defence University 
 🤖 AI & ML Enthusiast | 👁️ Computer Vision | 🧠 Deep Learning | NLP
 🐍 Python | Java | C++ | FastAPI | OpenCV | YOLO | LangChain
 🚀 Building AI-powered projects & intelligent systems
 📚 Always learning, experimenting, and improving
 📍 Sri Lanka 🇱🇰
+```
 
 
 ## 🛠️ Tech Arsenal
