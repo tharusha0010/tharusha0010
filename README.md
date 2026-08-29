@@ -13,13 +13,14 @@
 ## 👨‍💻 About Me
 
 ```typescript
-const TharushaAriyarathna = {
-    location: "Sri Lanka 🇱🇰",
-    currentFocus: ["Machine Learning", "Deep Learning", "Computer Vision", "Natural Language Processing"],
-    
-    },
-    "
-};
+Here’s a professional GitHub bio based on your background:
+
+> 🎓 Third-Year Computer Engineering Undergraduate
+> 🤖 AI & ML Enthusiast | 👁️ Computer Vision | 🧠 Deep Learning | NLP
+> 🐍 Python | Java | C++ | FastAPI | OpenCV | YOLO | LangChain
+> 🚀 Building AI-powered projects and exploring intelligent systems
+> 📚 Always learning, experimenting, and improving
+
 ```
 
 ## 🛠️ Tech Arsenal
